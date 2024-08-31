@@ -1,5 +1,5 @@
 {
-  "name": "cli-oop-bank-app",
+  "name": "aui-cli-oop-bank-app",
   "version": "1.0.0",
   "description": "This Is A CLI Based OOP Bank App Project. This Project Developed By Afaq UL Islam.Run This Command To Your CMD For Testing 'npx cli-oop-bank-app'",
   "main": "main.js",
